@@ -3,6 +3,9 @@
 
 M17 Automation is a secure, locally-run desktop application designed to automate the repetitive process of logging daily internship diary entries into the VTU Internyet portal. Built with Python and Selenium, it transforms a week of tedious data entry into a 30-second automated sequence.
 
+### Quick Download
+[![Download Latest](https://img.shields.io/badge/Download-M17__Automation__v1.0-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadanMS17/M17_Automation/releases/download/v1.0.0/M17_Automation_v1.0.zip)
+
 ---
 
 ## ✨ Features
@@ -16,7 +19,8 @@ M17 Automation is a secure, locally-run desktop application designed to automate
 
 ## 📥 Installation
 
-1. Download the latest `M17_Automation_v1.0.zip` from the [Releases Page](Link_to_your_release_here).
+1. Download the latest `M17_Automation_v1.0.zip` from the [Releases Page](https://github.com/MadanMS17/M17_Automation/releases/download/v1.0.0/M17_Automation_v1.0.zip
+).
 2. Right-click the downloaded `.zip` file and select **"Extract All..."**
 3. Open the extracted folder and double-click `M17_Automation.exe`.
 
@@ -36,7 +40,7 @@ The automation requires a strictly formatted CSV file.
 ### 2. Run the Engine
 1. Launch **M17 Automation**.
 2. Enter your exact VTU Portal Email and Password.
-3. Enter the **exact** Internship Name as it appears in the dropdown menu on the VTU portal (e.g., `Android App Development using Gen AI — MindMatrix`).
+3. Enter the **exact** Internship Name as it appears in the dropdown menu on the VTU portal (e.g., `	Software Intern`).
 4. Click **"📁 Upload CSV"** and select your prepared dataset.
 5. Select your Internet Speed (if the VTU portal is loading slowly, choose 'Medium' or 'Slow').
 6. Click **"🚀 START AUTOMATION"**.
